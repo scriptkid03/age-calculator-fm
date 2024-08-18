@@ -28,15 +28,30 @@
 }
 
 @font-face {
-  font-family: "Poppins-Extrabold";
-  src: url("/fonts/Poppins-Extrabold.ttf") format("truetype");
+  font-family: "Poppins-ExtraBold";
+  src: url("/fonts/Poppins-ExtraBold.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: "Poppins-ExtraboldItalic";
-  src: url("/fonts/Poppins-ExtraboldItalic.ttf") format("truetype");
+  font-family: "Poppins-ExtraBoldItalic";
+  src: url("/fonts/Poppins-ExtraBoldItalic.ttf") format("truetype");
 }
 
+.bold {
+  font-family: "Poppins-Bold";  
+}
+
+.extrabold {
+  font-family: "Poppins-ExtraBold"; 
+}
+
+.italic {
+  font-family: "Poppins-Italic";
+}
+
+.extrabolditalic {
+  font-family: "Poppins-ExtraBoldItalic"; 
+}
 
 
 /* :root {
